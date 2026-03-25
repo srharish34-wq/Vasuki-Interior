@@ -517,7 +517,7 @@
 .overlay {
     position: absolute;
     inset: 0;
-    background: rgba(8, 1, 40, 0.75); /* maroon overlay */
+    background: rgb(8 1 40 / 51%);
 }
 
 .hero-content {
